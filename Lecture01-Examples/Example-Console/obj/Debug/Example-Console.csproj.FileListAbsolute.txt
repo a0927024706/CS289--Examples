@@ -1,0 +1,7 @@
+D:\C#程式\Lecture01-Examples\Example-Console\bin\Debug\Example-Console.exe.config
+D:\C#程式\Lecture01-Examples\Example-Console\bin\Debug\Example-Console.exe
+D:\C#程式\Lecture01-Examples\Example-Console\bin\Debug\Example-Console.pdb
+D:\C#程式\Lecture01-Examples\Example-Console\obj\Debug\Example-Console.csprojResolveAssemblyReference.cache
+D:\C#程式\Lecture01-Examples\Example-Console\obj\Debug\Example-Console.csproj.CoreCompileInputs.cache
+D:\C#程式\Lecture01-Examples\Example-Console\obj\Debug\Example-Console.exe
+D:\C#程式\Lecture01-Examples\Example-Console\obj\Debug\Example-Console.pdb

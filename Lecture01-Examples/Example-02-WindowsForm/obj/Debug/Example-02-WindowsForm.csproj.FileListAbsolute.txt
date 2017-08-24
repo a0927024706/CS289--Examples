@@ -1,0 +1,10 @@
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\bin\Debug\Example-02-WindowsForm.exe.config
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\bin\Debug\Example-02-WindowsForm.exe
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\bin\Debug\Example-02-WindowsForm.pdb
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\obj\Debug\Example-02-WindowsForm.csprojResolveAssemblyReference.cache
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\obj\Debug\Example_02_WindowsForm.MainForm1.resources
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\obj\Debug\Example_02_WindowsForm.Properties.Resources.resources
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\obj\Debug\Example-02-WindowsForm.csproj.GenerateResource.Cache
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\obj\Debug\Example-02-WindowsForm.csproj.CoreCompileInputs.cache
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\obj\Debug\Example-02-WindowsForm.exe
+D:\C#程式\Lecture01-Examples\Example-02-WindowsForm\obj\Debug\Example-02-WindowsForm.pdb
